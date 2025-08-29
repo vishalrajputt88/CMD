@@ -488,10 +488,18 @@
             {
                 id: 4,
                 title: "Install NPM Package",
-                command: "npm install --save package-name",
+                command: "npm install --save package-nam",
                 description: "Installs an NPM package and adds it to dependencies",
                 category: "npm",
                 url: "https://docs.npmjs.com/cli/v7/commands/npm-install"
+            },
+            {
+                id: 5,
+                title: "",
+                command: "Windows activate key CMD",
+                description: "Only need to past this CMD in you powershall",
+                category: "NETWORK",
+                url: "https://www.youtube.com/watch?v=HbN3fkjc3FY"
             }
         ];
 
