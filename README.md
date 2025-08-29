@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -363,7 +362,7 @@
             }
 
             .categories {
-                flex-direction: column;
+               
                 align-items: center;
             }
         }
